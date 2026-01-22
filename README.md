@@ -16,6 +16,6 @@ python topsis.py data.csv "1,1,1,1,1" "+,+,-,-,-" output.csv
 - PyPI Link:  
 https://pypi.org/project/Topsis-Mehakpreet-102317094/
 
-### Install Package
+### Install Package:
 ```bash
 pip install Topsis-Mehakpreet-102317094
