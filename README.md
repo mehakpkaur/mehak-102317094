@@ -17,5 +17,9 @@ python topsis.py data.csv "1,1,1,1,1" "+,+,-,-,-" output.csv
 - PyPI Link:  
 https://pypi.org/project/Topsis-Mehakpreet-102317094/
 
+---
 ## **Program 3 - Web Application**
-- 
+- Flask-based TOPSIS web application  
+- User uploads CSV file, weights, and impacts  
+- System calculates TOPSIS score and rank  
+- Output result file is displayed/downloaded  
